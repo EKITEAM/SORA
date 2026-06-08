@@ -1,10 +1,6 @@
 # SORA
 
 <p align="center">
-  <img src="assets/banner.png" alt="SORA Banner" />
-</p>
-
-<p align="center">
   <img src="assets/logo.png" width="140" alt="SORA Logo" />
 </p>
 
@@ -32,6 +28,10 @@
 
 **SORA** is a lightweight Android image loading library built for API 21+.
 It is designed to load and render images efficiently with memory and disk caching, SVG support, smart resizing, request cancellation, and graceful fallback handling.
+
+<p align="center">
+  <img src="assets/banner.png" alt="SORA Banner" />
+</p>
 
 ## Current Release
 

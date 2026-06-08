@@ -89,7 +89,7 @@ If your project still uses the older Gradle setup, add JitPack in the root `buil
 
 ```gradle
 dependencies {
-    implementation 'com.github.EKITEAM:SORA:v1.0.5'
+    implementation 'com.github.EKITEAM:SORA:1.0.5'
 }
 ```
 

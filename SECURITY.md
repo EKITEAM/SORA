@@ -1,14 +1,15 @@
-Security Policy
+# Security Policy
 
-Supported Versions
+## Supported Versions
 
 The latest stable release of SORA receives security updates and bug fixes.
 
-Version| Supported
-Latest Release| ✅
-Older Releases| ❌
+| Version | Supported |
+|----------|-----------|
+| Latest Release | ✅ |
+| Older Releases | ❌ |
 
-Reporting a Vulnerability
+## Reporting a Vulnerability
 
 If you discover a security vulnerability in SORA, please report it responsibly.
 

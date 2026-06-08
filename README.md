@@ -18,8 +18,8 @@
   <a href="https://jitpack.io/#EKITEAM/SORA">
     <img alt="JitPack" src="https://img.shields.io/jitpack/v/github/EKITEAM/SORA?label=JitPack" />
   </a>
-  <a href="https://github.com/EKITEAM/SORA/releases/tag/v1.0.5">
-    <img alt="Release" src="https://img.shields.io/badge/Release-v1.0.5-blue" />
+  <a href="https://github.com/EKITEAM/SORA/releases/tag/1.0.6">
+    <img alt="Release" src="https://img.shields.io/badge/Release-v1.0.6-blue" />
   </a>
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-orange.svg" />

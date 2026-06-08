@@ -11,7 +11,7 @@ android {
         minSdk 21
         targetSdk 34
         versionCode 1
-        versionName "1.0.0"
+        versionName "1.0.2"
 
         buildConfigField "String", "SORA_VERSION", "\"${versionName}\""
     }
@@ -38,7 +38,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.EKITEAM'
                 artifactId = 'sora'
-                version = '1.0.0'
+                version = '1.0.2'
             }
         }
     }

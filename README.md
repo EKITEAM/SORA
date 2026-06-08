@@ -16,8 +16,7 @@
     <img alt="Android" src="https://img.shields.io/badge/Android-21%2B-brightgreen" />
   </a>
   <a href="https://jitpack.io/#EKITEAM/SORA">
-    <img alt="JitPack" src="https://img.shields.io/jitpack/v/github/EKITEAM/SORA?label=JitPack" />
-    [![](https://jitpack.io/v/EKITEAM/SORA.svg)](https://jitpack.io/#EKITEAM/SORA)
+    <img alt="JitPack" src="https://jitpack.io/v/EKITEAM/SORA.svg" />
   </a>
   <a href="https://github.com/EKITEAM/SORA/releases/tag/1.0.6">
     <img alt="Release" src="https://img.shields.io/badge/Release-v1.0.6-blue" />

@@ -74,7 +74,7 @@ If your project still uses the older repository setup, add JitPack in the root `
 
 ```gradle
 dependencies {
-    implementation 'com.github.EKITEAM:SORA:v1.0.4'
+    implementation 'com.github.EKITEAM:SORA:v1.0.5'
 }
 ```
 
@@ -241,7 +241,7 @@ If you enable obfuscation, add these rules to `proguard-rules.pro`:
 By default, SORA sends:
 
 ```text
-Sora/1.0.4
+Sora/1.0.5
 ```
 
 The version matches the library `versionName`. You can override this by modifying `NetworkFetcher.java` before building your own version.
@@ -252,8 +252,8 @@ The version matches the library `versionName`. You can override this by modifyin
 
 Current release:
 
-- Version: `v1.0.4`
-- JitPack dependency: `com.github.EKITEAM:SORA:v1.0.4`
+- Version: `v1.0.5`
+- JitPack dependency: `com.github.EKITEAM:SORA:v1.0.5`
 
 ---
 

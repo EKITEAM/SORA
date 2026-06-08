@@ -35,9 +35,9 @@ It is designed to load and render images efficiently with memory and disk cachin
 
 ## Current Release
 
-- Version: `1.0.5`
+- Version: `1.0.6`
 - Distribution: [JitPack](https://jitpack.io/#EKITEAM/SORA)
-- Artifact: `com.github.EKITEAM:SORA:1.0.5`
+- Artifact: `com.github.EKITEAM:SORA:[Version]`
 
 ---
 
@@ -89,7 +89,7 @@ If your project still uses the older Gradle setup, add JitPack in the root `buil
 
 ```gradle
 dependencies {
-    implementation 'com.github.EKITEAM:SORA:1.0.5'
+    implementation 'com.github.EKITEAM:SORA:[Version]'
 }
 ```
 
@@ -256,28 +256,10 @@ If you enable obfuscation, add these rules to `proguard-rules.pro`:
 By default, SORA sends:
 
 ```text
-Sora/1.0.5
+Sora/`versionName`
 ```
 
 The version matches the library `versionName`.
-
----
-
-## Release Notes
-
-### v1.0.5
-
-- First successful JitPack release
-- AndroidX compatibility fixes
-- Gradle wrapper and publishing setup
-- Resource and manifest fixes
-- Stable `.aar` artifact generation
-
-JitPack dependency:
-
-```gradle
-implementation 'com.github.EKITEAM:SORA:1.0.5'
-```
 
 ---
 

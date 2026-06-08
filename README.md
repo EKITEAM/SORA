@@ -35,9 +35,9 @@ It is designed to load and render images efficiently with memory and disk cachin
 
 ## Current Release
 
-- Version: `v1.0.5`
+- Version: `1.0.5`
 - Distribution: [JitPack](https://jitpack.io/#EKITEAM/SORA)
-- Artifact: `com.github.EKITEAM:SORA:v1.0.5`
+- Artifact: `com.github.EKITEAM:SORA:1.0.5`
 
 ---
 
@@ -276,7 +276,7 @@ The version matches the library `versionName`.
 JitPack dependency:
 
 ```gradle
-implementation 'com.github.EKITEAM:SORA:v1.0.5'
+implementation 'com.github.EKITEAM:SORA:1.0.5'
 ```
 
 ---
